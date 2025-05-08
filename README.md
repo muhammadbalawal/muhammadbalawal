@@ -7,7 +7,7 @@
 
 -  💼 Things that I'm currently working on:
 
-    - 🧠 Building a focus-based study platform with 3D avatars, chat 💬, and ambient rain sounds 🌧️ using Three.js and React
+    -🧠 Building a focus-based study platform with 3D avatars, chat 💬, and ambient rain sounds 🌧️ using Three.js and React
     
     -📝 Developing a powerful note-taking app with Org Mode features in Next.js
     
