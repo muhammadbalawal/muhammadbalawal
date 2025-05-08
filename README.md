@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Balawal</h1>
 <h3 align="center">I’m currently studying computer science at John Abbott College. I'm passionate about Backend Development, ML And Hardware.</h3>
+<h2 align="center">3× Hackathon Winner</h2>
+
 
 - 👨‍💻 All of my projects are available at [balawalsafdar.com](balawalsafdar.com)
 
