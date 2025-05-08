@@ -1,9 +1,25 @@
 <h1 align="center">Hi 👋, I'm Muhammad Balawal</h1>
-<h3 align="center">I am a full stack and hardware enthusiast who loves building both beautiful frontends and robust systems</h3>
+<h3 align="center">I’m currently studying computer science at John Abbott College. I'm passionate about Backend Development, ML And Hardware.</h3>
 
 - 👨‍💻 All of my projects are available at [balawalsafdar.com](balawalsafdar.com)
 
 - 📫 How to reach me **muhammadbalawalsafdar@gmail.com**
+
+💼 Things that I'm currently working on:
+
+🧠 Building a focus-based study platform with 3D avatars, chat 💬, and ambient rain sounds 🌧️ using Three.js and React
+
+📝 Developing a powerful note-taking app with Org Mode features in Next.js
+
+🧑‍💻 Preparing for CTF competitions with Arch Linux 🐧 and BlackArch/Kali on a dedicated laptop 💻
+
+🎥 Exploring AI-powered surveillance using TensorFlow.js and MoveNet for action recognition 🚨
+
+🌐 Designing a sleek portfolio and web tools using ShadCN UI ✨ and Tailwind CSS 🎨
+
+🤖 Experimenting with ESP32 and Arduino for IoT projects and sign language translation 🧤
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
