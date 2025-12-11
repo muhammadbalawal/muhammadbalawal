@@ -13,6 +13,16 @@ size-adjust: 109%;
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
+.link { cursor: pointer; }
+
+a, a:visited, a tspan {
+  text-decoration: none;
+}
+
+a:hover tspan {
+  text-decoration: underline;
+}
+
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
@@ -41,7 +51,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">muhammadbalawal</tspan> --------------------------------------------
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Windows 11, MacOS Sequoia, Arch Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">20 years, 2 months, 23 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">20 years, 2 months, 22 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Computer Science Student</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Software Developer</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Visual Studio Code, Android Studio, Visual Studio</tspan>
@@ -54,9 +64,10 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">irl</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Skating, Sleeping, Music</tspan>
 <tspan x="390" y="310">- Contact</tspan> -------------------------------------------------
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">muhammadbalawalsafdar@gmail.com</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Devpost</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">muhammadbalawal</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">muhammadbalawal</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">balawalsafdar.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Devpost</tspan>:<tspan class="cc"> ................................. </tspan><a href="https://devpost.com/muhammadbalawal" target="_blank" rel="noopener noreferrer"><tspan class="value link">muhammadbalawal</tspan></a>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><a href="https://www.linkedin.com/in/muhammadbalawal" target="_blank" rel="noopener noreferrer"><tspan class="value link">muhammadbalawal</tspan></a>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ............................... </tspan><a href="https://balawalsafdar.com" target="_blank" rel="noopener noreferrer"><tspan class="value link">balawalsafdar.com</tspan></a>
+
 <tspan x="390" y="450">- GitHub Stats</tspan> ---------------------------------------------
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">78</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">121</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">3</tspan>
 <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">1,231</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">2</tspan>
