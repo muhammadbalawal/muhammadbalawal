@@ -1,14 +1,3 @@
-<style>
-  a img {
-    filter: brightness(0);
-  }
-  @media (prefers-color-scheme: dark) {
-    a img {
-      filter: brightness(0) invert(1);
-    }
-  }
-</style>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadbalawal/muhammadbalawal/main/dark_mode.svg">
   
