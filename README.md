@@ -13,6 +13,7 @@ I'm a **Computer Science student** and **software developer** passionate about b
 -   **First Place** - JACHacks 2025
 -   **Second Place** - McGill CodeJam 2025
 -   **Second Place** - MariHacks 2025
+-   **Second Place** - CUSEC 2026
 -   **Honorable Mention** - DawsHacks 2025
 
 ## Featured Projects
