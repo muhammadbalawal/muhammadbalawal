@@ -27,12 +27,12 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: muhammadbalawal
-        run: python today.py
+        run: python main.py
       - name: Commit
         run: |-
           git add .
           git diff
-          git config --global user.email "github-actions-bot@muhammadbalawal.github.io"
-          git config --global user.name "muhammadbalawal/GitHub-Actions-Bot"
-          git commit -m "Updated README" -a || echo "No changes to commit"
+          git config --global user.email "batman@gotham.city"
+          git config --global user.name "Batman"
+          git commit -m "I am vengeance. I am the night. I am... updating stats" -a || echo "No changes to commit"
           git push
