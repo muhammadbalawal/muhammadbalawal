@@ -5,7 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Package manager lock files (optional - remove if you want to track them)
 # package-lock.json
 # yarn.lock
 # pnpm-lock.yaml
