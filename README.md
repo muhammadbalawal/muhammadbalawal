@@ -18,6 +18,15 @@ I'm a **Computer Science student** and **software developer** passionate about b
 
 ## Featured Projects
 
+### [Remoto AI: AI-Powered Remote Computer Control](https://github.com/muhammadbalawal/remoto)
+
+**Winner of McGill CodeJam 15**
+
+**Tech Stack**: Python, FastAPI, Backboard.io, OpenCV, Tesseract OCR, FFmpeg, MediaMTX, Cloudflare  
+**Features**: AI screen understanding, text commands, low-latency live streaming, authentication
+
+---
+
 ### [Sentinel: Traffic Accident Detection System](https://github.com/muhammadbalawal/sentinel)
 
 **Winner of JACHacks 2025**
@@ -28,9 +37,7 @@ I'm a **Computer Science student** and **software developer** passionate about b
 
 ---
 
-### [Remoto: Voice-Controlled Remote Computer System](https://github.com/muhammadbalawal/remoto)
+### [Anki AI: PDF Flashcard Generator](https://github.com/muhammadbalawal/anki-ai)
 
-**Winner of McGill 2025**
-
-**Tech Stack**: React, OpenCV, Tesseract OCR, Supabase, FFmpeg, MediaMTX, Cloudflare  
-**Features**: Speech-to-text, authentication, low-latency live streaming
+**Tech Stack**: Python, Anki, PyQt6, PyMuPDF, OpenAI / Claude / Gemini APIs  
+**Features**: Multi-provider AI flashcard generation, MCQ and Q&A cards, PDF slide images on card backs, preview & edit before import
