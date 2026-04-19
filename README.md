@@ -12,6 +12,6 @@
 -   **Second Place** - MariHacks 2025
 -   **Second Place** - CUSEC 2026
 -   **Best Design** - MariHacks 2026
--   **11labs** - JAC 2026
+-   **11labs** - JACHacks 2026
 -   **11labs** - MariHacks 2026
 -   **Honorable Mention** - DawsHacks 2025
