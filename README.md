@@ -10,7 +10,7 @@
 -   **First Place** - MariHacks 2026
 -   **Second Place** - McGill CodeJam 2025
 -   **Second Place** - MariHacks 2025
--   **Second Place** - CUSEC 2026
+-   **Best Agentic AI** - CUSEC 2026
 -   **Best Design** - MariHacks 2026
 -   **11labs** - JACHacks 2026
 -   **11labs** - MariHacks 2026
