@@ -12,6 +12,7 @@
 -   **Second Place** - MariHacks 2025
 -   **Best Agentic AI** - CUSEC 2026
 -   **Best Design** - MariHacks 2026
+-   **Best AI Project** - CUHacking 2026
 -   **11labs** - JACHacks 2026
 -   **11labs** - MariHacks 2026
 -   **Honorable Mention** - DawsHacks 2025
